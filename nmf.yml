@@ -182,7 +182,6 @@ dependencies:
   - zstd=1.4.9=h322a384_0
   - pip:
     - cython==0.29.23
-    - en-core-web-lg==3.0.0
     - spacy-pkuseg==0.0.28
     - stopwordsiso==0.6.1
     - zh-core-web-lg==3.0.0
