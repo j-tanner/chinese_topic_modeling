@@ -1,4 +1,4 @@
-name: chinese_research
+name: nmf
 channels:
   - conda-forge
   - defaults
@@ -180,9 +180,4 @@ dependencies:
   - zipp=3.4.1=pyhd3eb1b0_0
   - zlib=1.2.11=h7795811_1010
   - zstd=1.4.9=h322a384_0
-  - pip:
-    - cython==0.29.23
-    - spacy-pkuseg==0.0.28
-    - stopwordsiso==0.6.1
-    - zh-core-web-lg==3.0.0
-prefix: /Users/josephtanner/opt/anaconda3/envs/chinese_research
+prefix: /Users/josephtanner/opt/anaconda3/envs/nmf
